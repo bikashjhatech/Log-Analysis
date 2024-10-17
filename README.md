@@ -67,7 +67,7 @@ I recently completed the log analysis course on TryHackMe, where I explored vari
 ![Screenshot](Task8CorrectAnswer.png)
 
 ## Task9-1
-![Screenshot](Task9-1.png.png)
+![Screenshot](Task9-1png.png)
 
 ## Task9-2
 ![Screenshot](Task9-2.png)
