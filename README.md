@@ -10,7 +10,7 @@ I recently completed the log analysis course on TryHackMe, where I explored vari
 ![Screenshot](Task3-2.png)
 
 ## Task3 Correct Answer
-![Screenshot](Task3CorrectAnswer.png)
+![Screenshot](Task3CorrectAnswers.png)
 
 ## Task4-1
 ![Screenshot](Task4-2.png)
