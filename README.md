@@ -16,67 +16,67 @@ I recently completed the log analysis course on TryHackMe, where I explored vari
 ![Screenshot](Task4-2.png)
 
 ## Task4-2
-![Screenshot](Task4-3.png)
+![Screenshot](Task4-2.png)
 
 ## Task4 Correct Answer
 ![Screenshot](Task4CorrectAnswer.png)
 
 ## Task5
-![Screenshot](Task5-1.png)
+![Screenshot](Task5.png)
 
 ## Task5 Correct Answer
 ![Screenshot](Task5CorrectAnswer.png)
 
 ## Task6-1
-![Screenshot](Task6-2.png)
+![Screenshot](Task6-1.png)
 
 ## Task6-2
 ![Screenshot](Task6-2.png)
 
 ## Task6-3
-![Screenshot](Task6-2.png)
+![Screenshot](Task6-3.png)
 
 ## Task6-4
-![Screenshot](Task6-2.png)
+![Screenshot](Task6-4.png)
 
 ## Task6 Correct Answer
 ![Screenshot](Task6CorrectAnswer.png)
 
 ## Task7-1
-![Screenshot](Task6-2.png)
+![Screenshot](Task7-1.png)
 
 ## Task7-2
-![Screenshot](Task6-2.png)
+![Screenshot](Task7-2.png)
 
 ## Task7 Correct Answer
-![Screenshot](Task6-2.png)
+![Screenshot](Task7CorrectAnswer.png)
 
 ## Task8-2
-![Screenshot](Task6-2.png)
+![Screenshot](Task8-2.png)
 
 ## Task8-3a
-![Screenshot](Task6-2.png)
+![Screenshot](Task8-3a.png)
 
 ## Task8-3b
-![Screenshot](Task6-2.png)
+![Screenshot](Task8-3b.png)
 
 ## Task8-4
-![Screenshot](Task6-2.png)
+![Screenshot](Task8-4.png)
 
 ## Task8 Correct Answer
-![Screenshot](Task6-2.png)
+![Screenshot](Task8CorrectAnswerpng)
 
 ## Task9-1
-![Screenshot](Task6-2.png)
+![Screenshot](Task9-1.png)
 
 ## Task9-2
-![Screenshot](Task6-2.png)
+![Screenshot](Task9-2.png)
 
 ## Task9-3
-![Screenshot](Task6-2.png)
+![Screenshot](Task9-3.png)
 
 ## Task9 Correct Answer 
-![Screenshot](Task6-2.png)
+![Screenshot](Task9CorrectAnswer.png)
 
 ## All Task Completed
 ![Screenshot](AllTaskCompleted.png)
