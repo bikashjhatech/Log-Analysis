@@ -13,7 +13,7 @@ I recently completed the log analysis course on TryHackMe, where I explored vari
 ![Screenshot](Task3CorrectAnswers.png)
 
 ## Task4-1
-![Screenshot](Task4-2.png)
+![Screenshot](Task4-1.png)
 
 ## Task4-2
 ![Screenshot](Task4-2.png)
@@ -49,7 +49,7 @@ I recently completed the log analysis course on TryHackMe, where I explored vari
 ![Screenshot](Task7-2.png)
 
 ## Task7 Correct Answer
-![Screenshot](Task7CorrectAnswer.png)
+![Screenshot](Task7CorrectAnswers.png)
 
 ## Task8-2
 ![Screenshot](Task8-2.png)
@@ -64,10 +64,10 @@ I recently completed the log analysis course on TryHackMe, where I explored vari
 ![Screenshot](Task8-4.png)
 
 ## Task8 Correct Answer
-![Screenshot](Task8CorrectAnswerpng)
+![Screenshot](Task8CorrectAnswer.png)
 
 ## Task9-1
-![Screenshot](Task9-1.png)
+![Screenshot](Task9-1.png.png)
 
 ## Task9-2
 ![Screenshot](Task9-2.png)
